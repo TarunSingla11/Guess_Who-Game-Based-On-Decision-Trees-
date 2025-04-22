@@ -1,0 +1,510 @@
+Name,Profession,Gender,Age,Birth_City,Birth_State,Nationality,Status
+Tom Hanks,Actor,Male,68,Concord, California,American,Alive
+Oprah Winfrey,TV Host/Producer,Female,71,Kosciusko, Mississippi,American,Alive
+Elon Musk,Entrepreneur,Male,53,Pretoria, South Africa,American,Alive
+Serena Williams,Tennis Player,Female,43,Saginaw, Michigan,American,Alive
+Barack Obama,Politician,Male,63,Honolulu, Hawaii,American,Alive
+Taylor Swift,Singer/Songwriter,Female,35,Reading, Pennsylvania,American,Alive
+LeBron James,Basketball Player,Male,40,Akron, Ohio,American,Alive
+Meryl Streep,Actress,Female,75,Summit, New Jersey,American,Alive
+Bill Gates,Entrepreneur,Male,69,Seattle, Washington,American,Alive
+Beyoncé Knowles,Singer,Female,43,Houston, Texas,American,Alive
+Stephen Spielberg,Film Director,Male,78,Cincinnati, Ohio,American,Alive
+Kamala Harris,Politician,Female,60,Oakland, California,American,Alive
+Jeff Bezos,Entrepreneur,Male,61,Albuquerque, New Mexico,American,Alive
+Lady Gaga,Singer/Actress,Female,38,New York, New York,American,Alive
+Tom Brady,Football Player,Male,47,San Mateo, California,American,Alive
+Sandra Bullock,Actress,Female,60,Arlington, Virginia,American,Alive
+Neil Armstrong,Astronaut,Male,82,Wapakoneta, Ohio,American,Dead
+Michelle Obama,Author/Advocate,Female,61,Chicago, Illinois,American,Alive
+Mark Zuckerberg,Entrepreneur,Male,40,White Plains, New York,American,Alive
+Angelina Jolie,Actress/Filmmaker,Female,49,Los Angeles, California,American,Alive
+Robert Downey Jr.,Actor,Male,59,New York, New York,American,Alive
+Natalie Portman,Actress,Female,43,Jerusalem, Israel,American,Alive
+Samuel L. Jackson,Actor,Male,76,Washington, D.C.,American,Alive
+Nicki Minaj,Singer,Female,42,Port of Spain, Trinidad and Tobago,American,Alive
+Matthew McConaughey,Actor,Male,55,Uvalde, Texas,American,Alive
+John Cena,Wrestler/Actor,Male,47,West Newbury, Massachusetts,American,Alive
+Marilyn Monroe,Actress,Female,36,Los Angeles, California,American,Dead
+Leonardo DiCaprio,Actor,Male,50,Los Angeles, California,American,Alive
+Jennifer Lopez,Singer/Actress,Female,55,The Bronx, New York,American,Alive
+Dwayne Johnson,Actor/Wrestler,Male,52,Hayward, California,American,Alive
+Kanye West,Rapper/Producer,Male,47,Atlanta, Georgia,American,Alive
+Ellen DeGeneres,TV Host/Comedian,Female,67,Metairie, Louisiana,American,Alive
+George Clooney,Actor/Director,Male,63,Lexington, Kentucky,American,Alive
+Brad Pitt,Actor,Male,61,Shawnee, Oklahoma,American,Alive
+Julia Roberts,Actress,Female,57,Smyrna, Georgia,American,Alive
+Will Smith,Actor/Rapper,Male,56,Philadelphia, Pennsylvania,American,Alive
+Adele,Singer,Female,36,London, England,American,Alive
+Johnny Depp,Actor,Male,61,Owensboro, Kentucky,American,Alive
+Hillary Clinton,Politician,Female,77,Chicago, Illinois,American,Alive
+Morgan Freeman,Actor,Male,87,Memphis, Tennessee,American,Alive
+Denzel Washington,Actor,Male,70,Mount Vernon, New York,American,Alive
+Madonna,Singer/Actress,Female,66,Bay City, Michigan,American,Alive
+Chris Hemsworth,Actor,Male,41,Melbourne, Australia,American,Alive
+Scarlett Johansson,Actress,Female,40,New York, New York,American,Alive
+Justin Bieber,Singer,Male,31,London, Ontario,American,Alive
+Miley Cyrus,Singer/Actress,Female,32,Franklin, Tennessee,American,Alive
+Katy Perry,Singer,Female,40,Santa Barbara, California,American,Alive
+Ryan Reynolds,Actor,Male,48,Vancouver, British Columbia,American,Alive
+Anne Hathaway,Actress,Female,42,Brooklyn, New York,American,Alive
+Chris Evans,Actor,Male,43,Boston, Massachusetts,American,Alive
+Zendaya,Actress/Singer,Female,28,Oakland, California,American,Alive
+Tim Cook,Entrepreneur,Male,64,Robertsdale, Alabama,American,Alive
+Ariana Grande,Singer,Female,31,Boca Raton, Florida,American,Alive
+Jim Carrey,Actor/Comedian,Male,63,Newmarket, Ontario,American,Alive
+Snoop Dogg,Rapper,Male,53,Long Beach, California,American,Alive
+Emma Watson,Actress,Female,34,Paris, France,American,Alive
+Shawn Mendes,Singer,Male,26,Pickering, Ontario,American,Alive
+Selena Gomez,Singer/Actress,Female,32,Grand Prairie, Texas,American,Alive
+Kevin Hart,Comedian/Actor,Male,45,Philadelphia, Pennsylvania,American,Alive
+Drake,Rapper,Male,38,Toronto, Ontario,American,Alive
+Jamie Foxx,Actor/Singer,Male,57,Terrell, Texas,American,Alive
+Billie Eilish,Singer,Female,23,Los Angeles, California,American,Alive
+Post Malone,Rapper,Male,29,Syracuse, New York,American,Alive
+Cardi B,Rapper,Female,32,The Bronx, New York,American,Alive
+Tom Cruise,Actor,Male,62,Syracuse, New York,American,Alive
+Eddie Murphy,Actor/Comedian,Male,63,Brooklyn, New York,American,Alive
+Will Ferrell,Actor/Comedian,Male,57,Irvine, California,American,Alive
+Melissa McCarthy,Actress,Female,54,Plainfield, Illinois,American,Alive
+Steve Jobs,Entrepreneur,Male,56,San Francisco, California,American,Dead
+George Washington,Politician,Male,67,Westmoreland County, Virginia,American,Dead
+Abraham Lincoln,Politician,Male,56,Hardin County, Kentucky,American,Dead
+Martin Luther King Jr.,Activist,Male,39,Atlanta, Georgia,American,Dead
+Albert Einstein,Scientist,Male,76,Ulm, Germany,American,Dead
+Walt Disney,Entrepreneur,Male,65,Chicago, Illinois,American,Dead
+Michael Jordan,Basketball Player,Male,62,Brooklyn, New York,American,Alive
+Tiger Woods,Golfer,Male,49,Long Beach, California,American,Alive
+Cristiano Ronaldo,Soccer Player,Male,40,Funchal, Madeira,American,Alive
+Lionel Messi,Soccer Player,Male,37,Rosario, Argentina,American,Alive
+Simone Biles,Gymnast,Female,28,Columbus, Ohio,American,Alive
+Usain Bolt,Athlete,Male,38,Sherwood Content, Jamaica,American,Alive
+Mark Twain,Author,Male,74,Florida, Missouri,American,Dead
+Ernest Hemingway,Author,Male,61,Oak Park, Illinois,American,Dead
+J.K. Rowling,Author,Female,59,Yate, England,American,Alive
+Stephen King,Author,Male,77,Portland, Maine,American,Alive
+Maya Angelou,Author,Female,86,St. Louis, Missouri,American,Dead
+Steve Carell,Actor,Male,62,Concord, Massachusetts,American,Alive
+Tina Fey,Actress/Comedian,Female,54,Upper Darby, Pennsylvania,American,Alive
+Amy Poehler,Actress/Comedian,Female,53,Newton, Massachusetts,American,Alive
+Adam Sandler,Actor/Comedian,Male,58,Brooklyn, New York,American,Alive
+Ben Stiller,Actor/Comedian,Male,59,New York, New York,American,Alive
+Kristen Wiig,Actress/Comedian,Female,51,Canandaigua, New York,American,Alive
+Chris Pratt,Actor,Male,45,Virginia, Minnesota,American,Alive
+Jessica Chastain,Actress,Female,48,Sacramento, California,American,Alive
+Hugh Jackman,Actor,Male,56,Sydney, Australia,American,Alive
+Nicole Kidman,Actress,Female,57,Honolulu, Hawaii,American,Alive
+Matt Damon,Actor,Male,54,Cambridge, Massachusetts,American,Alive
+Ben Affleck,Actor/Director,Male,52,Berkeley, California,American,Alive
+Christian Bale,Actor,Male,51,Haverfordwest, Wales,American,Alive
+Halle Berry,Actress,Female,58,Cleveland, Ohio,American,Alive
+Sylvester Stallone,Actor,Male,78,New York, New York,American,Alive
+Arnold Schwarzenegger,Actor/Politician,Male,77,Thal, Austria,American,Alive
+Bruce Willis,Actor,Male,70,Idar-Oberstein, Germany,American,Alive
+Harrison Ford,Actor,Male,82,Chicago, Illinois,American,Alive
+Keanu Reeves,Actor,Male,60,Beirut, Lebanon,American,Alive
+Patrick Dempsey,Actor,Male,59,Lewiston, Maine,American,Alive
+Sandra Oh,Actress,Female,53,Nepean, Ontario,American,Alive
+Ellen Pompeo,Actress,Female,55,Everett, Massachusetts,American,Alive
+James Franco,Actor,Male,46,Palo Alto, California,American,Alive
+Seth Rogen,Actor/Comedian,Male,42,Vancouver, British Columbia,American,Alive
+Jonah Hill,Actor,Male,41,Los Angeles, California,American,Alive
+Paul Rudd,Actor,Male,55,Passaic, New Jersey,American,Alive
+Ryan Gosling,Actor,Male,44,London, Ontario,American,Alive
+Emma Stone,Actress,Female,36,Scottsdale, Arizona,American,Alive
+Margot Robbie,Actress,Female,34,Dalby, Queensland,American,Alive
+Bradley Cooper,Actor,Male,50,Philadelphia, Pennsylvania,American,Alive
+Robert De Niro,Actor,Male,81,New York, New York,American,Alive
+Al Pacino,Actor,Male,84,New York, New York,American,Alive
+Jack Nicholson,Actor,Male,87,Neptune City, New Jersey,American,Alive
+Robin Williams,Actor/Comedian,Male,63,Chicago, Illinois,American,Dead
+Heath Ledger,Actor,Male,28,Perth, Australia,American,Dead
+Philip Seymour Hoffman,Actor,Male,46,Fairport, New York,American,Dead
+Joaquin Phoenix,Actor,Male,50,San Juan, Puerto Rico,American,Alive
+Daniel Day-Lewis,Actor,Male,67,London, England,American,Alive
+Tom Hardy,Actor,Male,47,London, England,American,Alive
+Jake Gyllenhaal,Actor,Male,44,Los Angeles, California,American,Alive
+Reese Witherspoon,Actress,Female,49,New Orleans, Louisiana,American,Alive
+Amy Adams,Actress,Female,50,Vicenza, Italy,American,Alive
+Natalie Maines,Singer,Female,50,Lubbock, Texas,American,Alive
+John Legend,Singer,Male,46,Springfield, Ohio,American,Alive
+Alicia Keys,Singer,Female,44,New York, New York,American,Alive
+Bruno Mars,Singer,Male,39,Honolulu, Hawaii,American,Alive
+Pharrell Williams,Singer/Producer,Male,51,Virginia Beach, Virginia,American,Alive
+Eminem,Rapper,Male,52,St. Joseph, Missouri,American,Alive
+Jay-Z,Rapper/Entrepreneur,Male,55,Brooklyn, New York,American,Alive
+Kendrick Lamar,Rapper,Male,37,Compton, California,American,Alive
+Lil Wayne,Rapper,Male,42,New Orleans, Louisiana,American,Alive
+Travis Scott,Rapper,Male,33,Houston, Texas,American,Alive
+Dolly Parton,Singer,Female,79,Pittman Center, Tennessee,American,Alive
+Garth Brooks,Singer,Male,63,Tulsa, Oklahoma,American,Alive
+Bruce Springsteen,Singer,Male,75,Long Branch, New Jersey,American,Alive
+Bob Dylan,Singer/Songwriter,Male,83,Duluth, Minnesota,American,Alive
+Elvis Presley,Singer,Male,42, Tupelo, Mississippi,American,Dead
+Michael Jackson,Singer,Male,50,Gary, Indiana,American,Dead
+Whitney Houston,Singer,Female,48,Newark, New Jersey,American,Dead
+Prince,Singer,Male,57,Minneapolis, Minnesota,American,Dead
+Frank Sinatra,Singer,Male,82,Hoboken, New Jersey,American,Dead
+Aretha Franklin,Singer,Female,76,Memphis, Tennessee,American,Dead
+Stevie Wonder,Singer,Male,74,Saginaw, Michigan,American,Alive
+Ray Charles,Singer,Male,73,Albany, Georgia,American,Dead
+Johnny Cash,Singer,Male,71,Kingsland, Arkansas,American,Dead
+James Brown,Singer,Male,73,Barnwell, South Carolina,American,Dead
+B.B. King,Singer,Male,89,Itta Bena, Mississippi,American,Dead
+Chuck Berry,Singer,Male,90,St. Louis, Missouri,American,Dead
+Ella Fitzgerald,Singer,Female,79,Newport News, Virginia,American,Dead
+Louis Armstrong,Singer/Musician,Male,69,New Orleans, Louisiana,American,Dead
+Billie Holiday,Singer,Female,44,Philadelphia, Pennsylvania,American,Dead
+Jimi Hendrix,Musician,Male,27,Seattle, Washington,American,Dead
+Kurt Cobain,Musician,Male,27,Aberdeen, Washington,American,Dead
+Janis Joplin,Singer,Female,27,Port Arthur, Texas,American,Dead
+Freddie Mercury,Singer,Male,45,Zanzibar, Tanzania,American,Dead
+Jim Morrison,Musician,Male,27,Melbourne, Florida,American,Dead
+Tupac Shakur,Rapper,Male,25,East Harlem, New York,American,Dead
+The Notorious B.I.G.,Rapper,Male,24,Brooklyn, New York,American,Dead
+Aaliyah,Singer,Female,22,Brooklyn, New York,American,Dead
+Buddy Holly,Musician,Male,22,Lubbock, Texas,American,Dead
+John Lennon,Musician,Male,40,Liverpool, England,American,Dead
+George Harrison,Musician,Male,58,Liverpool, England,American,Dead
+Paul McCartney,Musician,Male,82,Liverpool, England,American,Alive
+Ringo Starr,Musician,Male,84,Liverpool, England,American,Alive
+Mick Jagger,Singer,Male,81,Dartford, England,American,Alive
+Keith Richards,Musician,Male,81,Dartford, England,American,Alive
+Steven Tyler,Singer,Male,76,New York, New York,American,Alive
+Joe Perry,Musician,Male,74,Lawrence, Massachusetts,American,Alive
+Jon Bon Jovi,Singer,Male,63,Perth Amboy, New Jersey,American,Alive
+Axl Rose,Singer,Male,63,Lafayette, Indiana,American,Alive
+Slash,Musician,Male,59,London, England,American,Alive
+Eddie Vedder,Musician,Male,60,Evanston, Illinois,American,Alive
+Chris Cornell,Musician,Male,52,Seattle, Washington,American,Dead
+Dave Grohl,Musician,Male,56,Warren, Ohio,American,Alive
+Mahatma Gandhi,Politician/Activist,Male,78,Porbandar, Gujarat,Indian,Dead
+Jawaharlal Nehru,Politician,Male,75,Allahabad, Uttar Pradesh,Indian,Dead
+Sardar Vallabhbhai Patel,Politician,Male,75,Nadiad, Gujarat,Indian,Dead
+A.P.J. Abdul Kalam,Scientist/Politician,Male,83,Rameswaram, Tamil Nadu,Indian,Dead
+Rabindranath Tagore,Poet/Writer,Male,80,Calcutta, West Bengal,Indian,Dead
+Sachin Tendulkar,Cricketer,Male,51,Mumbai, Maharashtra,Indian,Alive
+Lata Mangeshkar,Singer,Female,92,Mumbai, Maharashtra,Indian,Dead
+Subhas Chandra Bose,Politician/Activist,Male,48,Cuttack, Odisha,Indian,Dead
+Indira Gandhi,Politician,Female,66,Allahabad, Uttar Pradesh,Indian,Dead
+B.R. Ambedkar,Politician/Social Reformer,Male,65,Mhow, Madhya Pradesh,Indian,Dead
+Narendra Modi,Politician,Male,74,Vadnagar, Gujarat,Indian,Alive
+Amitabh Bachchan,Actor,Male,82,Allahabad, Uttar Pradesh,Indian,Alive
+Mother Teresa,Missionary,Female,87,Skopje, North Macedonia,Indian,Dead
+Rani Lakshmibai,Warrior/Queen,Female,29,Jhansi, Uttar Pradesh,Indian,Dead
+Sarojini Naidu,Poet/Politician,Female,70,Hyderabad, Telangana,Indian,Dead
+Atal Bihari Vajpayee,Politician,Male,93,Gwalior, Madhya Pradesh,Indian,Dead
+C.V. Raman,Scientist,Male,82,Tiruchirappalli, Tamil Nadu,Indian,Dead
+Satyajit Ray,Filmmaker,Male,70,Calcutta, West Bengal,Indian,Dead
+Homi J. Bhabha,Scientist,Male,56,Mumbai, Maharashtra,Indian,Dead
+Milkha Singh,Athlete,Male,91,Govindpura, Punjab,Indian,Dead
+Dhirubhai Ambani,Entrepreneur,Male,69,Chorwad, Gujarat,Indian,Dead
+Shah Rukh Khan,Actor,Male,59,New Delhi, Delhi,Indian,Alive
+Kapil Dev,Cricketer,Male,66,Chandigarh, Punjab,Indian,Alive
+Sunil Gavaskar,Cricketer,Male,75,Mumbai, Maharashtra,Indian,Alive
+M.S. Dhoni,Cricketer,Male,43,Ranchi, Jharkhand,Indian,Alive
+Virat Kohli,Cricketer,Male,36,Delhi, Delhi,Indian,Alive
+P.V. Sindhu,Badminton Player,Female,29,Hyderabad, Telangana,Indian,Alive
+Sania Mirza,Tennis Player,Female,38,Mumbai, Maharashtra,Indian,Alive
+Mary Kom,Boxer,Female,42,Kangathei, Manipur,Indian,Alive
+Viswanathan Anand,Chess Player,Male,55,Mayiladuthurai, Tamil Nadu,Indian,Alive
+Ratan Tata,Entrepreneur,Male,87,Mumbai, Maharashtra,Indian,Alive
+Mukesh Ambani,Entrepreneur,Male,67,Aden, Yemen,Indian,Alive
+Azim Premji,Entrepreneur,Male,79,Mumbai, Maharashtra,Indian,Alive
+N.R. Narayana Murthy,Entrepreneur,Male,78,Mysore, Karnataka,Indian,Alive
+Deepika Padukone,Actress,Female,39,Copenhagen, Denmark,Indian,Alive
+A.R. Rahman,Composer,Male,58,Chennai, Tamil Nadu,Indian,Alive
+Salman Khan,Actor,Male,59,Indore, Madhya Pradesh,Indian,Alive
+Priyanka Chopra,Actress,Female,42,Jamshedpur, Jharkhand,Indian,Alive
+Akshay Kumar,Actor,Male,57,Amritsar, Punjab,Indian,Alive
+Ranbir Kapoor,Actor,Male,42,Mumbai, Maharashtra,Indian,Alive
+Kareena Kapoor,Actress,Female,44,Mumbai, Maharashtra,Indian,Alive
+Anushka Sharma,Actress,Female,36,Ayodhya, Uttar Pradesh,Indian,Alive
+Vidya Balan,Actress,Female,46,Mumbai, Maharashtra,Indian,Alive
+Hrithik Roshan,Actor,Male,51,Mumbai, Maharashtra,Indian,Alive
+Kangana Ranaut,Actress,Female,38,Bhambla, Himachal Pradesh,Indian,Alive
+Sushant Singh Rajput,Actor,Male,34,Patna, Bihar,Indian,Dead
+Irrfan Khan,Actor,Male,53,Jaipur, Rajasthan,Indian,Dead
+Aamir Khan,Actor,Male,60,Mumbai, Maharashtra,Indian,Alive
+Rajinikanth,Actor,Male,74,Bengaluru, Karnataka,Indian,Alive
+Kamal Haasan,Actor,Male,70,Chennai, Tamil Nadu,Indian,Alive
+Diljit Dosanjh,Singer/Actor,Male,41,Dosanjh Kalan, Punjab,Indian,Alive
+Shreya Ghoshal,Singer,Female,41,Baharampur, West Bengal,Indian,Alive
+Arijit Singh,Singer,Male,37,Jiaganj, West Bengal,Indian,Alive
+Sonu Nigam,Singer,Male,51,Faridabad, Haryana,Indian,Alive
+Ashoka,Emperor,Male,72,Pataliputra, Bihar,Indian,Dead
+Akbar,Emperor,Male,63,Fatehpur Sikri, Uttar Pradesh,Indian,Dead
+Shivaji,Warrior/King,Male,50,Shivneri, Maharashtra,Indian,Dead
+Swami Vivekananda,Philosopher,Male,39,Calcutta, West Bengal,Indian,Dead
+Ravi Shankar,Musician,Male,92,Benares, Uttar Pradesh,Indian,Dead
+Zakir Hussain,Musician,Male,74,Mumbai, Maharashtra,Indian,Alive
+Amartya Sen,Economist,Male,91,Santiniketan, West Bengal,Indian,Alive
+Kailash Satyarthi,Activist,Male,71,Vidisha, Madhya Pradesh,Indian,Alive
+Vinoba Bhave,Activist,Male,87,Gagode, Maharashtra,Indian,Dead
+Medha Patkar,Activist,Female,70,Mumbai, Maharashtra,Indian,Alive
+Anna Hazare,Activist,Male,87,Ralegan Siddhi, Maharashtra,Indian,Alive
+Jayaprakash Narayan,Activist,Male,77,Sitab Diara, Bihar,Indian,Dead
+Sundar Pichai,Entrepreneur,Male,52,Chennai, Tamil Nadu,Indian,Alive
+Satya Nadella,Entrepreneur,Male,57,Hyderabad, Telangana,Indian,Alive
+Kalpana Chawla,Astronaut,Female,40,Karnal, Haryana,Indian,Dead
+Rakesh Sharma,Astronaut,Male,76,Patiala, Punjab,Indian,Alive
+Vikram Sarabhai,Scientist,Male,52,Ahmedabad, Gujarat,Indian,Dead
+Jagdish Chandra Bose,Scientist,Male,79,Mymensingh, Bangladesh,Indian,Dead
+Srinivasa Ramanujan,Mathematician,Male,32,Erode, Tamil Nadu,Indian,Dead
+Aryabhata,Mathematician,Male,76,Patna, Bihar,Indian,Dead
+Har Gobind Khorana,Scientist,Male,89,Raipur, Punjab,Indian,Dead
+Salim Ali,Ornithologist,Male,90,Mumbai, Maharashtra,Indian,Dead
+Dhanraj Pillay,Hockey Player,Male,56,Pune, Maharashtra,Indian,Alive
+Leander Paes,Tennis Player,Male,51,Kolkata, West Bengal,Indian,Alive
+Saina Nehwal,Badminton Player,Female,35,Hisar, Haryana,Indian,Alive
+Abhinav Bindra,Shooter,Male,42,Dehradun, Uttarakhand,Indian,Alive
+Dhyan Chand,Hockey Player,Male,74,Allahabad, Uttar Pradesh,Indian,Dead
+P.T. Usha,Athlete,Female,60,Payyoli, Kerala,Indian,Alive
+Bajrang Punia,Wrestler,Male,31,Jhajjar, Haryana,Indian,Alive
+Neeraj Chopra,Javelin Thrower,Male,27,Panipat, Haryana,Indian,Alive
+Hima Das,Athlete,Female,25,Dhing, Assam,Indian,Alive
+VVS Laxman,Cricketer,Male,50,Hyderabad, Telangana,Indian,Alive
+Rahul Dravid,Cricketer,Male,52,Indore, Madhya Pradesh,Indian,Alive
+Anil Kumble,Cricketer,Male,54,Bengaluru, Karnataka,Indian,Alive
+Sourav Ganguly,Cricketer,Male,52,Kolkata, West Bengal,Indian,Alive
+Rohit Sharma,Cricketer,Male,37,Nagpur, Maharashtra,Indian,Alive
+Smriti Mandhana,Cricketer,Female,28,Mumbai, Maharashtra,Indian,Alive
+Harmanpreet Kaur,Cricketer,Female,35,Moga, Punjab,Indian,Alive
+Jhulan Goswami,Cricketer,Female,42,Chakdaha, West Bengal,Indian,Alive
+Bhaichung Bhutia,Footballer,Male,48,Tinkitam, Sikkim,Indian,Alive
+Sunil Chhetri,Footballer,Male,40,Secunderabad, Telangana,Indian,Alive
+Irom Sharmila,Activist,Female,53,Imphal, Manipur,Indian,Alive
+Arundhati Roy,Writer,Female,63,Shillong, Meghalaya,Indian,Alive
+Salman Rushdie,Writer,Male,77,Mumbai, Maharashtra,Indian,Alive
+Chetan Bhagat,Writer,Male,50,New Delhi, Delhi,Indian,Alive
+Vikram Seth,Writer,Male,72,Kolkata, West Bengal,Indian,Alive
+Jhumpa Lahiri,Writer,Female,57,London, England,Indian,Alive
+R.K. Narayan,Writer,Male,94,Chennai, Tamil Nadu,Indian,Dead
+Premchand,Writer,Male,56,Lamhi, Uttar Pradesh,Indian,Dead
+Ruskin Bond,Writer,Male,90,Mussoorie, Uttarakhand,Indian,Alive
+Shashi Tharoor,Politician/Writer,Male,69,London, England,Indian,Alive
+Kiran Bedi,Police Officer/Activist,Female,75,Amritsar, Punjab,Indian,Alive
+T.N. Seshan,Administrator,Male,86,Palakkad, Kerala,Indian,Dead
+E. Sreedharan,Engineer,Male,92,Tirur, Kerala,Indian,Alive
+Sam Manekshaw,Military Officer,Male,94,Amritsar, Punjab,Indian,Dead
+Bipin Rawat,Military Officer,Male,63,Pauri, Uttarakhand,Indian,Dead
+V.K. Singh,Politician/Military Officer,Male,73,Bikaner, Rajasthan,Indian,Alive
+Arun Jaitley,Politician,Male,66,New Delhi, Delhi,Indian,Dead
+Sushma Swaraj,Politician,Female,67,Ambala, Haryana,Indian,Dead
+Pranab Mukherjee,Politician,Male,84,Mirati, West Bengal,Indian,Dead
+Manmohan Singh,Politician,Male,92,Chakwal, Punjab,Indian,Alive
+Rajiv Gandhi,Politician,Male,46,Mumbai, Maharashtra,Indian,Dead
+Lal Bahadur Shastri,Politician,Male,61,Mughalsarai, Uttar Pradesh,Indian,Dead
+Netaji Subhas Chandra Bose,Politician/Activist,Male,48,Cuttack, Odisha,Indian,Dead
+Bhagat Singh,Revolutionary,Male,23,Lahore, Punjab,Indian,Dead
+Chandra Shekhar Azad,Revolutionary,Male,24,Bhabhra, Madhya Pradesh,Indian,Dead
+Mangal Pandey,Revolutionary,Male,29,Nagwa, Uttar Pradesh,Indian,Dead
+Bal Gangadhar Tilak,Activist,Male,64,Ratnagiri, Maharashtra,Indian,Dead
+Lala Lajpat Rai,Activist,Male,63,Dhudike, Punjab,Indian,Dead
+Bipin Chandra Pal,Activist,Male,73,Sylhet, Bangladesh,Indian,Dead
+Gopal Krishna Gokhale,Activist,Male,48,Kothluk, Maharashtra,Indian,Dead
+Dadabhai Naoroji,Politician,Male,91,Mumbai, Maharashtra,Indian,Dead
+Annie Besant,Activist,Female,79,London, England,Indian,Dead
+J.R.D. Tata,Entrepreneur,Male,89,Paris, France,Indian,Dead
+G.D. Birla,Entrepreneur,Male,89,Pilani, Rajasthan,Indian,Dead
+Aditya Birla,Entrepreneur,Male,51,Mumbai, Maharashtra,Indian,Dead
+Lakshmi Mittal,Entrepreneur,Male,74,Sadulpur, Rajasthan,Indian,Alive
+Shiv Nadar,Entrepreneur,Male,79,Thoothukudi, Tamil Nadu,Indian,Alive
+Gautam Adani,Entrepreneur,Male,62,Ahmedabad, Gujarat,Indian,Alive
+Anand Mahindra,Entrepreneur,Male,69,Mumbai, Maharashtra,Indian,Alive
+Kiran Mazumdar-Shaw,Entrepreneur,Female,71,Bengaluru, Karnataka,Indian,Alive
+Verghese Kurien,Entrepreneur,Male,90,Kozhikode, Kerala,Indian,Dead
+Dhirubhai Ambani,Entrepreneur,Male,69,Chorwad, Gujarat,Indian,Dead
+Sushmita Sen,Actress,Female,49,Hyderabad, Telangana,Indian,Alive
+Madhuri Dixit,Actress,Female,57,Mumbai, Maharashtra,Indian,Alive
+Juhi Chawla,Actress,Female,57,Ludhiana, Punjab,Indian,Alive
+Hema Malini,Actress,Female,76,Ammanakudi, Tamil Nadu,Indian,Alive
+Rekha,Actress,Female,70,Chennai, Tamil Nadu,Indian,Alive
+Shabana Azmi,Actress,Female,74,Hyderabad, Telangana,Indian,Alive
+Jaya Bachchan,Actress,Female,76,Jabalpur, Madhya Pradesh,Indian,Alive
+Naseeruddin Shah,Actor,Male,74,Barabanki, Uttar Pradesh,Indian,Alive
+Om Puri,Actor,Male,66,Ambala, Haryana,Indian,Dead
+Anupam Kher,Actor,Male,70,Shimla, Himachal Pradesh,Indian,Alive
+Paresh Rawal,Actor,Male,69,Mumbai, Maharashtra,Indian,Alive
+Boman Irani,Actor,Male,65,Mumbai, Maharashtra,Indian,Alive
+Ratna Pathak Shah,Actress,Female,67,Mumbai, Maharashtra,Indian,Alive
+Farhan Akhtar,Actor/Director,Male,51,Mumbai, Maharashtra,Indian,Alive
+Zoya Akhtar,Director,Female,52,Mumbai, Maharashtra,Indian,Alive
+Karan Johar,Director,Male,52,Mumbai, Maharashtra,Indian,Alive
+Sanjay Leela Bhansali,Director,Male,62,Mumbai, Maharashtra,Indian,Alive
+Mani Ratnam,Director,Male,68,Chennai, Tamil Nadu,Indian,Alive
+Adoor Gopalakrishnan,Director,Male,83,Adoor, Kerala,Indian,Alive
+Shyam Benegal,Director,Male,90,Trimulgherry, Telangana,Indian,Alive
+Mira Nair,Director,Female,67,Rourkela, Odisha,Indian,Alive
+Deepa Mehta,Director,Female,74,Amritsar, Punjab,Indian,Alive
+Guru Dutt,Actor/Director,Male,39,Bengaluru, Karnataka,Indian,Dead
+Raj Kapoor,Actor/Director,Male,63,Lahore, Punjab,Indian,Dead
+Dev Anand,Actor,Male,88,Shakargarh, Punjab,Indian,Dead
+Dilip Kumar,Actor,Male,98,Peshawar, Khyber Pakhtunkhwa,Indian,Dead
+Asha Bhosle,Singer,Female,91,Sangli, Maharashtra,Indian,Alive
+Kishore Kumar,Singer,Male,58,Khandwa, Madhya Pradesh,Indian,Dead
+Mohammed Rafi,Singer,Male,55,Kotla Sultan Singh, Punjab,Indian,Dead
+Manna Dey,Singer,Male,94,Kolkata, West Bengal,Indian,Dead
+Bhupen Hazarika,Singer,Male,85,Sadiya, Assam,Indian,Dead
+Pandit Jasraj,Singer,Male,90,Hisar, Haryana,Indian,Dead
+Bismillah Khan,Musician,Male,90,Dumraon, Bihar,Indian,Dead
+Hariprasad Chaurasia,Musician,Male,86,Allahabad, Uttar Pradesh,Indian,Alive
+Alla Rakha,Musician,Male,80,Jammu, Jammu and Kashmir,Indian,Dead
+Amjad Ali Khan,Musician,Male,79,Gwalior, Madhya Pradesh,Indian,Alive
+Ustad Vilayat Khan,Musician,Male,75,Kolkata, West Bengal,Indian,Dead
+Tansen,Musician,Male,80,Gwalior, Madhya Pradesh,Indian,Dead
+Allu Arjun,Actor,Male,41,Chennai, Tamil Nadu,Indian,Alive
+Nandan Nilekani,Entrepreneur,Male,69,Bengaluru, Karnataka,Indian,Alive
+M.S. Subbulakshmi,Singer,Female,108,Madurai, Tamil Nadu,Indian,Alive
+Chetan Sharma,Cricketer,Male,58,Hamirpur, Himachal Pradesh,Indian,Alive
+Ravi Shastri,Cricketer/Commentator,Male,62,Mumbai, Maharashtra,Indian,Alive
+Sudha Murty,Author/Philanthropist,Female,74,Shiggaon, Karnataka,Indian,Alive
+Vineeta Singh,Entrepreneur,Female,41,Anand, Gujarat,Indian,Alive
+Trisha Krishnan,Actress,Female,41,Chennai, Tamil Nadu,Indian,Alive
+Vijay Deverakonda,Actor,Male,35,Hyderabad, Telangana,Indian,Alive
+Pankaj Tripathi,Actor,Male,48,Belsand, Bihar,Indian,Alive
+Nithya Menen,Actress,Female,36,Bengaluru, Karnataka,Indian,Alive
+Raghuram Rajan,Economist,Male,62,Bhopal, Madhya Pradesh,Indian,Alive
+Rishabh Pant,Cricketer,Male,27,Roorkee, Uttarakhand,Indian,Alive
+Ayushmann Khurrana,Actor/Singer,Male,40,Chandigarh, Punjab,Indian,Alive
+Taapsee Pannu,Actress,Female,37,New Delhi, Delhi,Indian,Alive
+Kiran Rao,Filmmaker,Female,51,Hyderabad, Telangana,Indian,Alive
+Jasprit Bumrah,Cricketer,Male,31,Ahmedabad, Gujarat,Indian,Alive
+Shankar Mahadevan,Composer/Singer,Male,58,Mumbai, Maharashtra,Indian,Alive
+Anand Kumar,Educator,Male,52,Patna, Bihar,Indian,Alive
+Naveen Patnaik,Politician,Male,78,Cuttack, Odisha,Indian,Alive
+Sidharth Malhotra,Actor,Male,40,Delhi, Delhi,Indian,Alive
+Kiara Advani,Actress,Female,32,Mumbai, Maharashtra,Indian,Alive
+Varun Dhawan,Actor,Male,37,Mumbai, Maharashtra,Indian,Alive
+Alia Bhatt,Actress,Female,32,Mumbai, Maharashtra,Indian,Alive
+Tiger Shroff,Actor,Male,35,Mumbai, Maharashtra,Indian,Alive
+Shraddha Kapoor,Actress,Female,38,Mumbai, Maharashtra,Indian,Alive
+Kartik Aaryan,Actor,Male,34,Gwalior, Madhya Pradesh,Indian,Alive
+Janhvi Kapoor,Actress,Female,28,Mumbai, Maharashtra,Indian,Alive
+Ram Charan,Actor,Male,39,Chennai, Tamil Nadu,Indian,Alive
+Rakul Preet Singh,Actress,Female,34,New Delhi, Delhi,Indian,Alive
+Naga Vamsi,Producer/Actor,Male,39,Hyderabad, Telangana,Indian,Alive
+Pooja Hegde,Actress,Female,34,Mumbai, Maharashtra,Indian,Alive
+Mahesh Babu,Actor,Male,49,Chennai, Tamil Nadu,Indian,Alive
+Samantha Ruth Prabhu,Actress,Female,37,Chennai, Tamil Nadu,Indian,Alive
+Ammy Virk,Actor/Singer,Male,31,Lohke, Punjab,Indian,Alive
+Sargun Mehta,Actress,Female,36,Chandigarh, Punjab,Indian,Alive
+Gippy Grewal,Actor/Singer,Male,42,Ludhiana, Punjab,Indian,Alive
+Sonam Bajwa,Actress,Female,32,Nanital, Uttarakhand,Indian,Alive
+Harrdy Sandhu,Actor/Singer,Male,38,Patiala, Punjab,Indian,Alive
+Shehnaaz Gill,Actress,Female,31,Beas, Punjab,Indian,Alive
+Shahid Kapoor,Actor,Male,44,Delhi, Delhi,Indian,Alive
+Kriti Sanon,Actress,Female,34,New Delhi, Delhi,Indian,Alive
+Ranveer Singh,Actor,Male,39,Mumbai, Maharashtra,Indian,Alive
+Sara Ali Khan,Actress,Female,29,Mumbai, Maharashtra,Indian,Alive
+Aditya Roy Kapur,Actor,Male,39,Mumbai, Maharashtra,Indian,Alive
+Ananya Panday,Actress,Female,26,Mumbai, Maharashtra,Indian,Alive
+Ishaan Khatter,Actor,Male,29,Mumbai, Maharashtra,Indian,Alive
+Yami Gautam,Actress,Female,36,Bilaspur, Himachal Pradesh,Indian,Alive
+Jr NTR,Actor,Male,41,Hyderabad, Telangana,Indian,Alive
+Kajal Aggarwal,Actress,Female,39,Mumbai, Maharashtra,Indian,Alive
+Nani,Actor,Male,41,Hyderabad, Telangana,Indian,Alive
+Tamannaah Bhatia,Actress,Female,35,Mumbai, Maharashtra,Indian,Alive
+Prabhas,Actor,Male,45,Chennai, Tamil Nadu,Indian,Alive
+Rashmika Mandanna,Actress,Female,28,Kodagu, Karnataka,Indian,Alive
+Neeru Bajwa,Actress,Female,44,Surrey, British Columbia,Indian,Alive
+Binnu Dhillon,Actor,Male,49,Dhuri, Punjab,Indian,Alive
+Jaswinder Bhalla,Actor,Male,64,Doraha, Punjab,Indian,Alive
+Nimrat Kaur,Actress,Female,43,Pilani, Rajasthan,Indian,Alive
+Gurpreet Ghuggi,Actor,Male,53,Khanna, Punjab,Indian,Alive
+Tania,Actress,Female,31,Jalandhar, Punjab,Indian,Alive
+Vicky Kaushal,Actor,Male,36,Mumbai, Maharashtra,Indian,Alive
+Katrina Kaif,Actress,Female,41,Hong Kong,Hong Kong,Indian,Alive
+Arjun Kapoor,Actor,Male,39,Mumbai, Maharashtra,Indian,Alive
+Parineeti Chopra,Actress,Female,36,Ambala, Haryana,Indian,Alive
+Rajkummar Rao,Actor,Male,40,Gurugram, Haryana,Indian,Alive
+Bhumi Pednekar,Actress,Female,35,Mumbai, Maharashtra,Indian,Alive
+John Abraham,Actor,Male,52,Kochi, Kerala,Indian,Alive
+Disha Patani,Actress,Female,32,Bareilly, Uttar Pradesh,Indian,Alive
+Riteish Deshmukh,Actor,Male,46,Latur, Maharashtra,Indian,Alive
+Genelia D'Souza,Actress,Female,37,Mumbai, Maharashtra,Indian,Alive
+Abhishek Bachchan,Actor,Male,49,Mumbai, Maharashtra,Indian,Alive
+Aishwarya Rai,Actress,Female,51,Mangalore, Karnataka,Indian,Alive
+Saif Ali Khan,Actor,Male,54,New Delhi, Delhi,Indian,Alive
+Preity Zinta,Actress,Female,50,Shimla, Himachal Pradesh,Indian,Alive
+Emraan Hashmi,Actor,Male,46,Mumbai, Maharashtra,Indian,Alive
+Mouni Roy,Actress,Female,39,Cooch Behar, West Bengal,Indian,Alive
+Arjun Rampal,Actor,Male,52,Jabalpur, Madhya Pradesh,Indian,Alive
+Bipasha Basu,Actress,Female,46,New Delhi, Delhi,Indian,Alive
+Bobby Deol,Actor,Male,56,Mumbai, Maharashtra,Indian,Alive
+Esha Deol,Actress,Female,43,Mumbai, Maharashtra,Indian,Alive
+Sanjay Dutt,Actor,Male,65,Mumbai, Maharashtra,Indian,Alive
+Tabu,Actress,Female,54,Hyderabad, Telangana,Indian,Alive
+Ajay Devgn,Actor,Male,55,New Delhi, Delhi,Indian,Alive
+Kajol,Actress,Female,50,Mumbai, Maharashtra,Indian,Alive
+Rani Mukerji,Actress,Female,47,Mumbai, Maharashtra,Indian,Alive
+Sonakshi Sinha,Actress,Female,37,Patna, Bihar,Indian,Alive
+Neil Nitin Mukesh,Actor,Male,43,Mumbai, Maharashtra,Indian,Alive
+Tusshar Kapoor,Actor,Male,48,Mumbai, Maharashtra,Indian,Alive
+Soha Ali Khan,Actress,Female,46,New Delhi, Delhi,Indian,Alive
+Kunal Kemmu,Actor,Male,41,Srinagar, Jammu and Kashmir,Indian,Alive
+Shilpa Shetty,Actress,Female,49,Mangalore, Karnataka,Indian,Alive
+Karishma Kapoor,Actress,Female,50,Mumbai, Maharashtra,Indian,Alive
+Imran Khan,Actor,Male,42,Madison, Wisconsin,Indian,Alive
+Sushmita Sen,Actress,Female,49,Hyderabad, Telangana,Indian,Alive
+Fardeen Khan,Actor,Male,51,Mumbai, Maharashtra,Indian,Alive
+Twinkle Khanna,Actress,Female,50,Pune, Maharashtra,Indian,Alive
+Raveena Tandon,Actress,Female,50,Mumbai, Maharashtra,Indian,Alive
+Suniel Shetty,Actor,Male,63,Mangalore, Karnataka,Indian,Alive
+Manisha Koirala,Actress,Female,54,Kathmandu, Nepal,Indian,Alive
+Uday Chopra,Actor,Male,52,Mumbai, Maharashtra,Indian,Alive
+Pawan Kalyan,Actor,Male,52,Bapatla, Andhra Pradesh,Indian,Alive
+Chiranjeevi,Actor,Male,69,Mogalthuru, Andhra Pradesh,Indian,Alive
+Surekha Konidala,Actress,Female,61,Andhra Pradesh,Andhra Pradesh,Indian,Alive
+Rana Daggubati,Actor,Male,40,Chennai, Tamil Nadu,Indian,Alive
+Naga Chaitanya,Actor,Male,38,Hyderabad, Telangana,Indian,Alive
+Akhil Akkineni,Actor,Male,30,San Jose, California,Indian,Alive
+Sai Dharam Tej,Actor,Male,38,Hyderabad, Telangana,Indian,Alive
+Lavanya Tripathi,Actress,Female,34,Ayodhya, Uttar Pradesh,Indian,Alive
+Nikhil Siddhartha,Actor,Male,39,Hyderabad, Telangana,Indian,Alive
+Sreeleela,Actress,Female,23,Detroit, Michigan,Indian,Alive
+Vaishnav Tej,Actor,Male,35,Hyderabad, Telangana,Indian,Alive
+Keerthy Suresh,Actress,Female,32,Chennai, Tamil Nadu,Indian,Alive
+Sai Pallavi,Actress,Female,32,Kotagiri, Tamil Nadu,Indian,Alive
+Adivi Sesh,Actor,Male,40,Hyderabad, Telangana,Indian,Alive
+Nivetha Thomas,Actress,Female,29,Kannur, Kerala,Indian,Alive
+Varun Tej,Actor,Male,35,Hyderabad, Telangana,Indian,Alive
+Raashi Khanna,Actress,Female,34,New Delhi, Delhi,Indian,Alive
+Vijay Deverakonda,Actor,Male,35,Hyderabad, Telangana,Indian,Alive
+Shalini Pandey,Actress,Female,31,Jabalpur, Madhya Pradesh,Indian,Alive
+Sudheer Babu,Actor,Male,44,Vijayawada, Andhra Pradesh,Indian,Alive
+Anu Emmanuel,Actress,Female,28,Chicago, Illinois,Indian,Alive
+Sumanth,Actor,Male,50,Hyderabad, Telangana,Indian,Alive
+Priyamani,Actress,Female,40,Bengaluru, Karnataka,Indian,Alive
+Regina Cassandra,Actress,Female,34,Chennai, Tamil Nadu,Indian,Alive
+Akhira Nandan,Actor,Male,19,Hyderabad, Telangana,Indian,Alive
+Shriya Saran,Actress,Female,42,Dehradun, Uttarakhand,Indian,Alive
+Ravi Teja,Actor,Male,57,Jaggampeta, Andhra Pradesh,Indian,Alive
+Meher Ramesh,Actor,Male,48,Hyderabad, Telangana,Indian,Alive
+Gopichand,Actor,Male,45,Hyderabad, Telangana,Indian,Alive
+Anjali,Actress,Female,38,Razole, Andhra Pradesh,Indian,Alive
+Nithiin,Actor,Male,41,Hyderabad, Telangana,Indian,Alive
+Mehreen Pirzada,Actress,Female,29,Bathinda, Punjab,Indian,Alive
+Bellamkonda Sreenivas,Actor,Male,32,Guntur, Andhra Pradesh,Indian,Alive
+Kalyani Priyadarshan,Actress,Female,31,Chennai, Tamil Nadu,Indian,Alive
+Sundeep Kishan,Actor,Male,37,Chennai, Tamil Nadu,Indian,Alive
+Ileana D'Cruz,Actress,Female,37,Mumbai, Maharashtra,Indian,Alive
+Catherine Tresa,Actress,Female,35,Dubai, UAE,Indian,Alive
+Pranitha Subhash,Actress,Female,32,Bengaluru, Karnataka,Indian,Alive
+Sharwanand,Actor,Male,41,Hyderabad, Telangana,Indian,Alive
+Jimmy Shergill,Actor,Male,54,Gorakhpur, Uttar Pradesh,Indian,Alive
+Yo Yo Honey Singh,Singer/Actor,Male,42,Hoshiarpur, Punjab,Indian,Alive
+Parmish Verma,Actor/Singer,Male,35,Patiala, Punjab,Indian,Alive
+Wamiqa Gabbi,Actress,Female,31,Chandigarh, Punjab,Indian,Alive
+Ranjit Bawa,Singer/Actor,Male,36,Gurdaspur, Punjab,Indian,Alive
+Mandy Takhar,Actress,Female,37,Wolverhampton, England,Indian,Alive
+Karan Aujla,Singer/Actor,Male,28,Ghanauli, Punjab,Indian,Alive
+Himanshi Khurana,Actress,Female,33,Kiratpur Sahib, Punjab,Indian,Alive
+Jassie Gill,Actor/Singer,Male,36,Ludhiana, Punjab,Indian,Alive
+Prabh Gill,Singer/Actor,Male,40,Ludhiana, Punjab,Indian,Alive
+Sunanda Sharma,Singer/Actress,Female,33,Gurdaspur, Punjab,Indian,Alive
+Amrinder Gill,Actor/Singer,Male,48,Amritsar, Punjab,Indian,Alive
+Harrdy Sandhu,Actor/Singer,Male,38,Patiala, Punjab,Indian,Alive
+Gurnaam Bhullar,Actor/Singer,Male,30,Kamalpur, Punjab,Indian,Alive
+Simi Chahal,Actress,Female,31,Ambala, Haryana,Indian,Alive
+Jagdeep Sidhu,Actor/Director,Male,44,Muktsar, Punjab,Indian,Alive
